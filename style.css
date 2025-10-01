@@ -12,7 +12,7 @@ h1 {
 div#container {
    width: 100%;
    overflow: auto;
-   float: left;
+   /* float: left; */
    box-sizing: border-box;
    padding: 10px;
 }
@@ -23,12 +23,12 @@ div#footer {
 
 
 #output {
-    /* margin-top: 20px; */
+    margin-top: 20px;
     white-space: pre-wrap;
-    /* background: #f3f3f3; */
+    background: #f3f3f3;
     padding: 10px;
     border-radius: 5px;
-    /* border: 1px solid #ccc; */
+    border: 1px solid #ccc;
 }
 
         div#div1 {
@@ -119,5 +119,6 @@ div#footer {
             border-radius: 20px;
             clear: both;
         }
+
 
 
