@@ -1,0 +1,123 @@
+body {
+	font-family: Arial, sans-serif;
+	
+}
+
+
+h1 {
+    text-align: center; 
+    font-size: 50px;
+}
+
+div#container {
+   width: 100%;
+   overflow: auto;
+   float: left;
+   box-sizing: border-box;
+   padding: 10px;
+}
+
+div#footer {
+            margin-top: 40px;
+        }
+
+
+#output {
+    /* margin-top: 20px; */
+    white-space: pre-wrap;
+    /* background: #f3f3f3; */
+    padding: 10px;
+    border-radius: 5px;
+    /* border: 1px solid #ccc; */
+}
+
+        div#div1 {
+            color: red ;
+            font-family: sans-serif;
+            padding: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: red;
+            font-size: 20px;}
+
+        ul {
+            padding: 0;
+        }
+
+        li {
+            list-style-type: none;
+            margin: 5px 10px;
+            float: left;
+        }
+
+
+        div#footer {
+            margin-top: 40px;
+        }
+
+        div#div2 {
+            color: white;
+            background-color: red;
+            font-family: Impact;
+            font-size: 30px;
+            padding: 10px;
+            text-align: center;
+            border-radius: 20px;
+            clear: both;
+        }
+
+        div#div3 {
+            color: red;
+            font-family: Impact;
+            font-size: 20px;
+            padding: 10px;
+            text-align: center;
+            border-radius: 20px;
+            clear: both;
+        }
+
+        div#div4 {
+            margin-top: 10px;
+            margin-bottom: 20px;
+        }
+
+        table {
+            border: none;
+            font-family: sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        td, th {
+            border-radius: 10px;
+            padding: 8px;
+        }
+
+        tr:nth-child(odd){background-color: #f2f2f2;}
+
+        tr:hover {background-color: #ddd;}
+
+        th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: left;
+            background-color: red;
+            color: white;
+        }
+
+        /* Design for table is from W3Schools */
+
+        div#div5 {
+            color: white;
+            background-color: red;
+            font-family: Impact;
+            font-size: 20px;
+            padding: 10px;
+            text-align: center;
+            border-radius: 20px;
+            clear: both;
+        }
+
+
